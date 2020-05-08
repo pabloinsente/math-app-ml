@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Import the workspace into JupyterLab
+jupyter labextension install @yeebc/jupyterlab_neon_theme

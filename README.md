@@ -53,7 +53,7 @@ Read the tutorials in [my blog](https://pabloinsente.github.io/).
 
 ### Remotely
 
-With mybinder, by clicking the icon -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pabloinsente/math-app-ml/master)
+With mybinder, by clicking the icon -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pabloinsente/math-app-ml/master/?urlpath=lab)
 
 This will build a docker image of the repo that runs on the cloud. Beware that it may take 2-3 minutes to be ready. Note the mybinder link may be behind a few updates.
 
