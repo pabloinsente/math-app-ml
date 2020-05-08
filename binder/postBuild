@@ -2,3 +2,5 @@
 
 # Import the workspace into JupyterLab
 jupyter labextension install @yeebc/jupyterlab_neon_theme
+jupyter labextension install @jupyterlab/toc
+

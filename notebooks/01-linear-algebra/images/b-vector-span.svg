@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="b-coordinate-system (copy).svg">
+   sodipodi:docname="b-vector-span.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
@@ -27,7 +27,7 @@
      inkscape:cx="636.81014"
      inkscape:cy="231.69931"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g21184"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="870"
@@ -1046,7 +1046,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1078,7 +1078,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:1;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;text-align:center;text-anchor:middle;fill:#ff5555;stroke-width:0.21166667"
            y="164.2063"
            x="142.38731"
-           sodipodi:role="line">Two on-overlapping vectors</tspan><tspan
+           sodipodi:role="line">Two non-overlapping vectors</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444494px;line-height:1;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;text-align:center;text-anchor:middle;fill:#ff5555;stroke-width:0.21166667"
            y="169.85074"
            x="142.38731"
