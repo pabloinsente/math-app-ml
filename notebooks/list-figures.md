@@ -1,4 +1,3 @@
-
 <<<<< function.svg >>>>>> / done
 <<<<< geometric-vector.svg >>>>>> / done
 <<<<< polynomials-vector.svg >>>>>> / done
