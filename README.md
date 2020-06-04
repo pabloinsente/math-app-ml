@@ -36,7 +36,7 @@ This is a tricky question. I'd like to say "NONE! Only your enthusiasm!" but I w
 ## What contents do you cover?
 
 1. Linear Algebra ![progress](https://progress-bar.dev/100/ "progress")
-2. Calculus (Differential, Integral, and Vector Calculus) ![progress](https://progress-bar.dev/5/ "progress")
+2. Calculus (Differential, Integral, and Vector Calculus) ![progress](https://progress-bar.dev/10/ "progress")
 3. Probability and Statistics ![progress](https://progress-bar.dev/0/ "progress")
 4. Information Theory (maybe)
 5. Optimization (maybe)
