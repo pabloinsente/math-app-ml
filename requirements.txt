@@ -1,7 +1,7 @@
 altair==4.1.0              
 jupyterlab==2.0.1       
 matplotlib==3.2.1       
-numpy==1.18.2      
+numpy==1.22.0      
 pandas==1.0.3       
 pip==20.0.2      
 scikit-learn==0.22.2.post1
